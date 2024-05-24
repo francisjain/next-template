@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a{
+  text-decoration: none ;
+}
+
+:root{
+  --color-white:white;
+  --color-ffffff:#ffffff;
+  --color-ececec:#ececec;
+  --color-e9e3e3:#e9e3e3;
+  --color-black:black;
+  --color-red:red;
+  --color-success: #219653;
+  --color-danger:#F32121;
+  --color-secondary:#757575;
+  --color-040E25:#040E25;
+  --color-212121:#212121;
+  --color-0048D4:#0048D4;
+  --color-273BE2:#273BE2;
+  --color-424242:#424242;
+  --color-0096881a:#0096881a;
+  --color-ed93481a:#ed93481a;
+  --color-2196f31a:#2196f31a;
+  --color-253179:#253179;
+  --color-E0E0E0:#E0E0E0;
+  --color-9E9E9E:#9E9E9E;
+  --color-757575:#757575;
+  --color-EEE:#EEE;
+  --color-BDBDBD:#BDBDBD;
+  --color-F5F5F5:#F5F5F5;
+  --color-0048d41a:#0048d41a;
+  --color-FFF:#FFF;
+  --color-FFFCEE:#FFFCEE;
+  --color-FAFAFA:#FAFAFA;
+  --color-BDBDBD:#BDBDBD;
+  --color-0048d433:#0048d433;
+  --color-0000000a:#0000000a;
+  --color-EBF6FF:#EBF6FF;
+  --color-EEEEEE:#EEEEEE;
+  --color-E5EDFB:#E5EDFB;
+  --color-E5ECFA:#E5ECFA;
+  --color-212B36:#212B36;
+  --color-D9D9D9:#D9D9D9;
+}
